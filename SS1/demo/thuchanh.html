@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>thuchanh</title>
+</head>
+<body>
+<!--<input id="nhietdo">-->
+<!--<p id="hien"> </p>-->
+<!--<button onclick="click">click</button>-->
+<!--<script>-->
+<!--    let c = parseFloat(document.getElementById("nhietdo").value);-->
+<!--    do{-->
+<!--        // function click() {-->
+<!--        //     document.write('Nhiet do la' + nhietdo);-->
+<!--        // }-->
+
+<!--    }while (c>36 && c<38)-->
+<input type="text" id="nhietdo">
+<p id="input"></p><br>
+<button onclick="getNhietdo()">chon</button>
+<script>
+    function getNhietdo{
+        let c = parseFloat(document.getElementById("nhietdo").value);
+        let input = document.write("Nhap nhiet do ");
+        do {
+            document.getElementById("input").innerHTML = input;
+        } while (
+            c > 36 && c < 38
+            )
+    }
+</script>
+</script>
+</body>
+</html>

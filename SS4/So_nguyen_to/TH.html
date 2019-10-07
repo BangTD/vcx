@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>TH</title>
+</head>
+<body>
+<script>
+    let numbers = parseInt(prompt("Moi nhap so nguyen to ban can : "));
+    let num;
+    let n;
+    let a = true;
+    let j = [2];
+    let i;
+    for (num=0; num < numbers; num += 2){
+        while(n > 2 && n % 2 != 0){
+            for (i=3 ; i<n; i+=2) {
+                if (n % i == 0) {
+                    a = false;
+                    break;
+                }
+            }
+        }
+    }
+</script>
+</body>
+</html>

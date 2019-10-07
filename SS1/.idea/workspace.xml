@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="394a0963-ea81-4ca6-a35d-198b02eab659" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Nhung javascript/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nhung javascript/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nhung javascript/demo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TH Bien/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TH Toan tu/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TH Toan tu/demo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TH Toan tu/demo1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a/Nhung Javascript" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ab/b.html/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ab/b.html/myScript.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nhung javascript/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Nhung javascript/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TH Bien/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/TH Bien/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TH Toan tu/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/TH Toan tu/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/THhienthidaura/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/THhienthidaura/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/toan tu" />
+  </component>
+  <component name="ProjectId" id="1RP2tO0AfvCTNPilBwOKOS6uatQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="394a0963-ea81-4ca6-a35d-198b02eab659" name="Default Changelist" comment="" />
+      <created>1569554623664</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569554623664</updated>
+      <workItem from="1569554625398" duration="4417000" />
+      <workItem from="1569578923425" duration="3255000" />
+      <workItem from="1569677429451" duration="5619000" />
+      <workItem from="1569687567261" duration="928000" />
+      <workItem from="1569722227735" duration="3326000" />
+      <workItem from="1569816571708" duration="2951000" />
+      <workItem from="1569892085578" duration="1277000" />
+      <workItem from="1569896217553" duration="7965000" />
+      <workItem from="1569979874793" duration="8641000" />
+      <workItem from="1569990820010" duration="1084000" />
+      <workItem from="1570001471454" duration="619000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

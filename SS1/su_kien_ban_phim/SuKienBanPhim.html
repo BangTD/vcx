@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<img src="1.png" height="100" style="position: absolute;left: 0;top: 0"/>;
+<script>
+    function len() {
+        let element = document.getElementById("nobita");
+        element.style.top = parseInt(element.style.top) - 5 + 'px';
+    }
+    function xuong() {
+        let element = document.getElementById("nobita");
+        element.style.top = parseInt(element.style.top) + 5 +'px';
+    }
+    function trai() {
+        let element = document.getElementById("nobita");
+        element.style.left = parseInt(element.style.left) - 5 + 'px';
+    }
+    function phai() {
+        let element = document.getElementById("nobita");
+        element.style.left = parseInt(element.style.left) + 5 + 'px';
+    }
+function unicode(event) {
+    switch (event.keyCode) {
+        case 37: trai();
+        break;
+        case 39: phai();
+        break;
+        case 38: len();
+        break;
+        case 40: xuong();
+        break;
+    }
+}
+    function docReady() {
+        window.addEventListener('keydown', unicode);
+    }
+</script>
+
+</body>
+</html>
