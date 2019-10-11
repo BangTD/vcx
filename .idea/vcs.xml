@@ -22,5 +22,9 @@
     <mapping directory="$PROJECT_DIR$/SS4/TH_vong_lap_long" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/SS4/TH_while" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/SS4/switch-case" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SS5" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SS5/New folder" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SS5/hienThiSoNguyen" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SS6" vcs="Git" />
   </component>
 </project>

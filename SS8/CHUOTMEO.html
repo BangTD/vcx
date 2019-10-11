@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    function Mouse(name, weight, speed, status) {
+        this.name = name;
+        this.weight = weight;
+        this.speed = speed;
+        this.status = status;
+        this.sound = function (stringMouse) {
+            if (this.status){
+                console.log(stringMouse);
+            }
+        }
+    }
+    let long = new Mouse("long", 69, 5, true);
+    let dung = new Mouse("dung", 50, 10, false);
+    let dong = new Mouse("dong", 60, 7, true);
+
+
+</script>
+</body>
+</html>
