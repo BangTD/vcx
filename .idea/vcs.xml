@@ -26,5 +26,9 @@
     <mapping directory="$PROJECT_DIR$/SS5/New folder" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/SS5/hienThiSoNguyen" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/SS6" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SS8" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SS8/ThucHanh1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SS8/ThucHanh2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SS8/ThucHanh3" vcs="Git" />
   </component>
 </project>

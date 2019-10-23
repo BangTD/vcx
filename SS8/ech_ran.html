@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>snake&frog</title>
+</head>
+<body>
+<script>
+    function frog(name,weight,speed,color,Vitri) {
+        this.name = name;
+        this.weight = weight;
+        this.speed = speed;
+        this.color = color;
+        this.Vitri = Vitri;
+        this.getVitri = function () {
+            return this.Vitri;
+        };
+        this.setVitri = function (newVitri) {
+            this.Vitri = newVitri;
+        };
+        this.sound = function (stringfrog) {
+            if(this.Vitri) {
+                console.log(stringfrog);
+            }
+        }
+    }
+    let long=new frog('long',2,5,"aqua",true);
+    let long1= new frog('long1',2,10,"baclk",false);
+
+
+    // -------------------------------------------------------------------------------------------------
+
+
+    function snake(name,weight,speed) {
+        this.name = name;
+        this.weight = weight;
+        this.speed = speed;
+        this.sound = function (stringsnake) {
+            console.log(stringsnake);
+        };
+        this.catch = function (frog) {
+            if(this.speed>frog.speed)
+            {
+                console.log('ran' + this.name + ' da bat duoc con ech ' + frog.name);
+            }
+            else {
+                console.log('ran' + this.name + ' khong bat duoc con ech ' + frog.name);
+            }
+        };
+        this.eat = function (frog) {
+            if(frog.getVitri())
+            {
+                this.weight += frog.weight;
+                frog.setVitri(false);
+            }
+            else
+            {
+                console.log('con ech này dang o duoi nuoc');
+            }
+        }
+    }
+    let dung = new snake('dung',20,7);
+</script>
+</body>
+</html>
